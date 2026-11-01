@@ -1,0 +1,8 @@
+{
+  "board_url": "https://www.jinju.go.kr/00130/02730/05586.web",
+  "interval_minutes": 10,
+  "check_body": false,
+  "pc_notification": false,
+  "email_enabled": true,
+  "request_timeout_sec": 20
+}
